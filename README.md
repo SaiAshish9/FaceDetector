@@ -1,6 +1,6 @@
 # FaceDetector
 
-This app makes use of clarifai api,nodejs,reactjs,various npm packages such as tachyons,cors ,react tilt,particlesjs,bcrypt,etc
+This app makes use of clarifai api,knexjs,nodejs,reactjs,various npm packages such as tachyons,cors ,react tilt,particlesjs,bcrypt,etc
 and postgresql database.This app can be used to detect(mark) faces on a provided image.
 
 Few screenshots of this app are as follows:
